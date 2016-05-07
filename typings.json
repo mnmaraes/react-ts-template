@@ -1,0 +1,17 @@
+{
+  "name": "toptal-react-academy",
+  "version": false,
+  "dependencies": {},
+  "ambientDependencies": {
+    "express": "registry:dt/express#4.0.0+20160317120654",
+    "express-serve-static-core": "registry:dt/express-serve-static-core#0.0.0+20160322035842",
+    "mime": "registry:dt/mime#0.0.0+20160316155526",
+    "node": "registry:dt/node#4.0.0+20160501135006",
+    "react": "registry:dt/react#0.14.0+20160423065914",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160412154040",
+    "react-redux": "registry:dt/react-redux#4.4.0+20160501125835",
+    "react-router": "registry:dt/react-router#2.0.0+20160501155536",
+    "redux": "registry:dt/redux#3.3.1+20160326112656",
+    "serve-static": "registry:dt/serve-static#0.0.0+20160501131543"
+  }
+}
